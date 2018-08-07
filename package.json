@@ -1,0 +1,22 @@
+{
+  "name": "myasu",
+  "version": "1.0.0",
+  "description": "A redesigned desktop app for your myASU portal.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anaygupta/myASU.git"
+  },
+  "author": "Anay Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anaygupta/myASU/issues"
+  },
+  "homepage": "https://github.com/anaygupta/myASU#readme",
+  "devDependencies": {
+    "electron": "^2.0.6"
+  }
+}
